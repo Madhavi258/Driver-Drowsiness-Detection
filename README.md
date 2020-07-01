@@ -75,3 +75,10 @@ Playsound  1.2.2
 Dlib  19.16.0
 
 We developed Drowsiness Detection system using facial features. We detect drowsiness based on calculated distance. When drowsiness is detected, system gives alert sound to driver. System works well in proper lighting condition. Our system also works well with spectacles. Further, we work on more accuracy. We try to add more functionalities like vehicle usage and road tracking. So that accuracy will improve.
+
+
+For More Information Contact us on:
+
+madhaviaghera2000@gmail.com
+
+padham201@gmail.com
