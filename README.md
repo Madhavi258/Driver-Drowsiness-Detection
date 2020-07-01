@@ -77,6 +77,7 @@ Dlib  19.16.0
 We developed Drowsiness Detection system using facial features. We detect drowsiness based on calculated distance. When drowsiness is detected, system gives alert sound to driver. System works well in proper lighting condition. Our system also works well with spectacles. Further, we work on more accuracy. We try to add more functionalities like vehicle usage and road tracking. So that accuracy will improve.
 
 To Execute this file, change helper.py file in Python36\site-packages\imutils\face_utils
+
 For More Information Contact us on:
 
 madhaviaghera2000@gmail.com
