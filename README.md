@@ -79,5 +79,5 @@ We developed Drowsiness Detection system using facial features. We detect drowsi
 To Execute this file, change helper.py file in Python36\site-packages\imutils\face_utils
 
 For More Information Contact us on:<br>
-<a href="https://github.com/Madhavi258">Madhavi Aghera</a> madhaviaghera2000@gmail.com <br>
-<a href="https://github.com/palkagrecha623">Pal Kagrecha</a> pal.kagrecha@gmail.com
+<a href="https://github.com/Madhavi258">Madhavi Aghera:</a> madhaviaghera2000@gmail.com <br>
+<a href="https://github.com/palkagrecha623">Pal Kagrecha:</a> pal.kagrecha@gmail.com
